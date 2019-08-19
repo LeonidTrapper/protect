@@ -1,0 +1,11 @@
+{
+  "name": "colortesrt",
+  "version": "1.0.0",
+  "description": "Leonid",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Leonid",
+  "license": "ISC"
+}
