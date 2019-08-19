@@ -11,7 +11,7 @@ bot.on('message', async (message) => {
 		if(message.content === go) {
 			message.channel.send(go).then(() => message.delete(500)).catch(err => { return })
 		} else {
-			return
+			return;
 		}
 	}
 })
