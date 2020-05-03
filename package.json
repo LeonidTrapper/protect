@@ -1,11 +1,25 @@
 {
-  "name": "colortesrt",
+  "name": "reaction_bot",
   "version": "1.0.0",
-  "description": "Leonid",
+  "description": "Leonid#9085",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Leonid",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^12.2.0",
+    "random-puppy": "^1.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonidTrapper/reactbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LeonidTrapper/reactbot/issues"
+  },
+  "homepage": "https://github.com/LeonidTrapper/reactbot#readme"
 }
